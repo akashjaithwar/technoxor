@@ -1,0 +1,2 @@
+# technoxor
+technoxor blog
